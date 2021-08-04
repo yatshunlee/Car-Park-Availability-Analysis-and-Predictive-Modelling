@@ -2,15 +2,15 @@
 
 Probable Use case to implement - Predicting the availability of car parks across all HK districts.
 
-        ● User will provide as an input:
+● User will provide as an input:
 
-            ○ full date
+  1. full date
 
-            ○ time rounded off to the closest 15 minute interval
+  2. time rounded off to the closest 15 minute interval
 
-            ○ The district they are searching
+  3. The district they are searching
 
-        ● The output should be a prediction of the amount of car park spaces available in each car park of the district provided by the user.
+● The output should be a prediction of the amount of car park spaces available in each car park of the district provided by the user.
 
 
 Datasets:
