@@ -4,11 +4,11 @@ Probable Use case to implement - Predicting the availability of car parks across
 
 ● User will provide as an input:
 
-  ○ full date
-  
-  ○ time rounded off to the closest 15 minute interval
-  
-  ○ The district they are searching
+    ○ full date
+
+    ○ time rounded off to the closest 15 minute interval
+
+    ○ The district they are searching
   
 ● The output should be a prediction of the amount of car park spaces available in each car park of the district provided by the user.
 
